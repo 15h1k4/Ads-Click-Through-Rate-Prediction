@@ -4,15 +4,15 @@
 
 **Data** - The dataset contains 50000 rows and 10 columns. All of the features in the dataset are listed below:
 * Daily Time Spent on Site: the user's daily time spent on the website;
-                    User Age: the user's age;
-                    Area Income: the average income in the user's neighborhood.
-                    Daily Internet use: the user's daily internet use;
-                    Ad Topic Line: the ad's title;
-                    City: the user's city;
-                    Gender: the user's gender; 
-                    Country: the user's nation;
-                    Timestamp: the time the user accessed the webpage;
-                    Clicked on Ad: 1 if the user clicked on the ad, 0 otherwise;
+* User Age: the user's age;
+* Area Income: the average income in the user's neighborhood.
+* Daily Internet use: the user's daily internet use;
+* Ad Topic Line: the ad's title;
+* City: the user's city;
+* Gender: the user's gender; 
+* Country: the user's nation;
+* Timestamp: the time the user accessed the webpage;
+* Clicked on Ad: 1 if the user clicked on the ad, 0 otherwise;
 
 **Models used** - Logistic regression, Naive Bayes, Decision Tree, KNN, Random Forest
 
