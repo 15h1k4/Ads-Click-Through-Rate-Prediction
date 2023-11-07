@@ -12,9 +12,9 @@
           Gender: the user's gender; 
           Country: the user's nation;
           Timestamp: the time the user accessed the webpage;
-          Ad Clicked: 1 if the user clicked on the ad, 0 otherwise;
+          Clicked on Ad: 1 if the user clicked on the ad, 0 otherwise;
 
-**Models used** - Logistic regression, Naive Bayes, Decision Tree (Pre-prunning), Random Forest (Pre-prunning)
+**Models used** - Logistic regression, Naive Bayes, Decision Tree, KNN, Random Forest
 
 
 
