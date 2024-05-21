@@ -14,7 +14,7 @@
 * Timestamp: the time the user accessed the webpage;
 * Clicked on Ad: 1 if the user clicked on the ad, 0 otherwise;
 
-**Models used** - Logistic regression, Naive Bayes, Decision Tree, KNN, Random Forest
+**Models used** - Logistic regression, Naive Bayes, Decision Tree, KNN, Random Forest, GBM, XGBoost
 
 
 
